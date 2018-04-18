@@ -1,4 +1,6 @@
-
+.navbar{
+  background-color: #FAFAD2;
+}
 
 .question_body { 
   margin: auto;
@@ -25,8 +27,9 @@
 
 .list_body {
   width: 100%;
-  max-width: 930px;
+  max-width: 1930px;
   padding: 15px;
+  padding-top: 100px;
   margin: 0 auto;
 }
 
